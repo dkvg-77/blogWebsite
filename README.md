@@ -35,17 +35,24 @@ A blog website where you can upload your own blogs and see others as well.
 ## Some screenshots.  
 ![new1](https://github.com/dkvg-77/blogWebsite/assets/122727663/a52a35e6-115d-4cb7-9b7c-240b4294cad8)  
 ---
+---  
 ![new2](https://github.com/dkvg-77/blogWebsite/assets/122727663/7c3770f3-74ce-4239-b5d8-88f7a5350602)  
 ---
+---
 ![new3](https://github.com/dkvg-77/blogWebsite/assets/122727663/c74b9bcb-0af7-4042-bb93-56ef5e349d3f)  
+---  
 ---
 ![new4](https://github.com/dkvg-77/blogWebsite/assets/122727663/15bf664c-b3bf-44e7-a4cb-57e988645f5d)  
+---  
 ---
 ![new5](https://github.com/dkvg-77/blogWebsite/assets/122727663/fac0ae6f-2ceb-4d96-b7d0-59cd7e353d7e)  
+---  
 ---
 ![new6](https://github.com/dkvg-77/blogWebsite/assets/122727663/00e9a0cf-0334-4b68-8d84-320574f7591f)  
+---  
 ---
 ![new7](https://github.com/dkvg-77/blogWebsite/assets/122727663/87b143b1-88e5-4cd8-bc64-20f72d0f568d)  
+---  
 ---
 
 
