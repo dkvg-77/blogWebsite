@@ -6,7 +6,7 @@ A blog website where you can upload your own blogs and see others as well.
 --> The password is Encrypted.  
 --> You can upload your own blogs and later you can edit them as well.  
 --> See what others are posting.  
---> Not focused on web-design.(still under process)  
+--> Not focused on Front end-design.(still under process)  
   
 ## Tools used:  
 --> React  
