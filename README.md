@@ -1,18 +1,18 @@
 # Blog Website.   
-A blog website where you can upload your own blogs and see others as well.  
+
 
 ## Important Features:  
---> A blog website where you can register and log in using your username and password.   
---> The password is Encrypted.  
---> You can upload your own blogs and later you can edit them as well.  
---> See what others are posting.  
---> Not focused on Front end-design.(still under process)  
+--> Developed a blog with userfriendly features.   
+--> Secure User Authentication: Register and log in with encrypted passwords.   
+--> Blog Creation and Editing: Compose, publish, and edit your blogs.   
   
-## Tools used:  
---> React  
---> Node.js  
---> MongoDB  
---> Express.Js  
+## Tools and Technologies Used
+--> MERN Stack (MongoDB, Express.js, React, Node.js).   
+--> MongoDB database for data storage.   
+--> Node.js and Express.js for backend.   
+--> JWT for secure cookie-based auth.   
+--> Bcrypt for password hashing.   
+--> Image uploads (Multer, ImageKit).   
   
 ## The steps to run the program:  
 --> Download using zip and extract the folder.  
