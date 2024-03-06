@@ -5,6 +5,13 @@
 --> Developed a blog with userfriendly features.   
 --> Secure User Authentication: Register and log in with encrypted passwords.   
 --> Blog Creation and Editing: Compose, publish, and edit your blogs.   
+
+## Watch the video below (2 mins) to see how the blog website works.
+
+
+https://github.com/dkvg-77/blogWebsite/assets/122727663/1b724e03-9f12-482c-a37c-3c1c5825ce83
+
+
   
 ## Tools and Technologies Used
 --> MERN Stack (MongoDB, Express.js, React, Node.js).   
