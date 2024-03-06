@@ -12,7 +12,7 @@
 --> Node.js and Express.js for backend.   
 --> JWT for secure cookie-based auth.   
 --> Bcrypt for password hashing.   
---> Image uploads (Multer, ImageKit).   
+--> Image uploads (Multer).   
   
 ## The steps to run the program:  
 --> Download using zip and extract the folder.  
